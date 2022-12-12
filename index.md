@@ -14,7 +14,7 @@ My GitHub page is http://github.com/josephinechoi
 
 * Lab 7
 
-    Lab 7, part 2 was the second of my favorites since we have to come up with code in order to calculate the game of Blackjack. Looking back at the code, I was able to write many bool functions depending on the category of cards. THe fun part was testing whether the code worked by inputting numbers and letters that represented the cards and testing the calculations.
+    Lab 7, part 2 was the second of my favorites since we have to come up with code in order to calculate the game of Blackjack. Looking back at the code, I was able to write many bool functions depending on the category of cards. The fun part was testing whether the code worked by inputting numbers and letters that represented the cards and testing the calculations.
 
 * Lab 11
 
